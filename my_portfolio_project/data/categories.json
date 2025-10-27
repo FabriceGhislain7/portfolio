@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": "web",
+      "name": "Web Development",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "data",
+      "name": "Data Analysis",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "ml-ai",
+      "name": "Machine Learning & AI",
+      "color": "#f97316"
+    },
+    {
+      "id": "tools-scientific",
+      "name": "Tools & Scientific",
+      "color": "#10b981"
+    },
+    {
+      "id": "iot",
+      "name": "IoT / Embedded Systems",
+      "color": "#8b5cf6"
+    }
+  ]
+}

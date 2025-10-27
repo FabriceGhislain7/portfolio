@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "id": "pizzamama-django",
+      "title": "PizzaMama Django",
+      "description": "Applicazione web full-stack per gestione ristorante pizzeria con Django. Include autenticazione utenti, gestione ordini e interfaccia admin.",
+      "image": "assets/images/projects/pizzamama-icone.jpg",
+      "category": "web",
+      "status": "in_progress",
+      "featured": true,
+      "technologies": ["Django", "Python", "HTML5", "CSS3", "SQLite", "JavaScript"],
+      "links": {
+        "github": "https://github.com/FabriceGhislain7/python-dev-portfolio/tree/main/pizzamama"
+      },
+      "date_created": "2024-07-01",
+      "role": "Full Stack Developer",
+      "priority": 1
+    },
+    {
+      "id": "portfolio-website",
+      "title": "Portfolio Website",
+      "description": "Portfolio personale moderno e responsive sviluppato con HTML, CSS e JavaScript. Include sezioni dinamiche e caricamento dati da JSON.",
+      "image": "assets/images/projects/website_portfolio.jpg",
+      "category": "web",
+      "status": "completed",
+      "featured": true,
+      "technologies": ["HTML5", "CSS3", "JavaScript", "JSON", "Git"],
+      "links": {
+        "github": "https://github.com/FabriceGhislain7/portfolio-website",
+        "live": "https://fabriceghislain7.github.io/portfolio-website/"
+      },
+      "date_created": "2025-01-15",
+      "role": "Frontend Developer",
+      "priority": 2
+    },
+    {
+      "id": "thesis-ml-project",
+      "title": "ML on Heterogeneous Datasets",
+      "description": "Progetto di tesi magistrale con tecniche di machine learning per analisi relazioni e riduzione dimensionalità in dataset complessi.",
+      "image": "assets/images/projects/DA_ML_covid.jpg",
+      "category": "data",
+      "status": "in_progress",
+      "featured": true,
+      "technologies": ["MATLAB", "Machine Learning", "Random Forest", "Bootstrap"],
+      "links": {},
+      "date_created": "2023-09-01",
+      "role": "Researcher & Data Scientist",
+      "priority": 3
+    },
+    {
+      "id": "gdr-web-app",
+      "title": "GDR Web App - Fantasy RPG",
+      "description": "Gioco di ruolo multiplayer web app con Flask. Permette creazione personaggi, combattimenti e gestione inventari.",
+      "image": "assets/images/projects/gdr_flask.jpg",
+      "category": "web",
+      "status": "ongoing",
+      "featured": true,
+      "technologies": ["Python", "Flask", "SQLAlchemy", "HTML5", "Bootstrap", "JavaScript"],
+      "links": {
+        "github": "https://github.com/FabriceGhislain7/gdr-web-app",
+        "live": "https://gdr-web-app.onrender.com"
+      },
+      "date_created": "2025-05-01",
+      "role": "Full-Stack Developer in Training",
+      "priority": 4
+    },
+    {
+      "id": "galaxy-runner-kivy",
+      "title": "Galaxy Runner - Gioco 3D",
+      "description": "Gioco runner spaziale 3D con Kivy, controlli multipiattaforma e generazione procedurale dinamica del percorso.",
+      "image": "assets/images/projects/galaxy_runner.png",
+      "category": "gaming",
+      "status": "completed",
+      "featured": true,
+      "technologies": ["Python", "Kivy", "NumPy", "OpenGL"],
+      "links": {
+        "github": "https://github.com/FabriceGhislain7/kivy-game-galaxy"
+      },
+      "date_created": "2025-02-03",
+      "role": "Game Developer",
+      "priority": 5
+    },
+    {
+      "id": "mrbeat-drum-machine",
+      "title": "MrBeat - Drum Machine",
+      "description": "Drum machine professionale con Kivy e Pygame. Sequencing multi-traccia e audio processing real-time.",
+      "image": "assets/images/projects/mrbeat.png",
+      "category": "music-production",
+      "status": "completed",
+      "featured": true,
+      "technologies": ["Python", "Kivy", "Pygame", "NumPy"],
+      "links": {
+        "github": "https://github.com/FabriceGhislain7/kivy-mrbeat"
+      },
+      "date_created": "2025-08-13",
+      "role": "Audio Software Engineer",
+      "priority": 6
+    }
+  ]
+}
